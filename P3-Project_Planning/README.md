@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Link: https://balsamiq.cloud/s2c55mz/pb1fepu/r7AD4
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/9BUbb2Ow/ateamliftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/miketully426/AroundTown-Client
+
+https://github.com/miketully426/AroundTown-Server
