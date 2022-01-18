@@ -8,4 +8,4 @@ If you have made progress, and you engage with your mentor you will be marked as
 [Project Review Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-review)
 
 ## Submission Instructions
-Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.
+Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.[AroundTown-PP.pdf](https://github.com/lfallert/liftoff-assignments/files/7885816/AroundTown-PP.pdf)
